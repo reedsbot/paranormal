@@ -1,0 +1,11 @@
+1.apt update && apt upgrade (I)
+2.apt install git (II)
+3.apt install ruby
+4.-git clote https://github.com/muhammadfathul/VORTEX   (III)
+  -cd VORTEX
+  -chmod 777 vortex.sh
+  -sh vortex.sh
+  -ls
+  -sh vortex.sh
+  -00
+  -cp vortex.txt/sdcard(tersimpan di forder tool ini)
